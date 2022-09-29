@@ -1,0 +1,149 @@
+#box{
+    background-image: url(https://img5.goodfon.com/wallpaper/nbig/2/3f/makarony-bliudo-lapsha-temnyi-fon-eda-pomidory-skovoroda.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1500px;
+    height: 500px;
+
+    
+}
+#d1{
+
+        background-color: orangered;
+        width: 1498px;
+        height: 54px;
+        margin-top:-20px;
+    
+    
+}
+#h1{
+    color: antiquewhite;
+    
+    width: 1500px;
+    height: 40px;
+    padding: 5px;
+}
+header{
+    color: aliceblue;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100;
+
+}
+#p1{
+    color: azure;
+    font-style: normal;
+    margin-left: 20px;
+}
+label{
+    color: orangered;
+}
+a{
+    color: orangered;
+    margin-left: 10px;
+}
+#box2{
+    background-color: rgb(112, 250, 20);
+    height: 60px;
+    width: 800px;
+    padding: 5px;
+    margin-top: 5px;
+    border-top: 1px solid black;
+}
+.h1{
+    color: black;
+  font-style: normal;
+    margin-left: 500px;
+}
+#box3{
+    background-image: url(https://thumbs.dreamstime.com/b/greek-food-background-traditional-different-dishes-top-view-close-up-143835841.jpg);
+    background-repeat: no-repeat;
+    height:200px;
+    width: 360px;
+    margin-top:-70px;
+   margin-left: 40px;
+}
+.p1{
+    color: black;
+    margin-left:  420px;
+    margin-top: -100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+
+#box4{
+    background-image: url(https://cdn.pixabay.com/photo/2013/08/11/19/46/coffee-171653_960_720.jpg);
+    background-repeat: no-repeat;
+    width: 450px;
+    height: 230px;
+    margin-left: 820px;
+    margin-top: -199px;
+}
+#box5{
+    background-color: orangered;
+    width: 50px;
+    height: 230px;
+    margin-top: -228px;
+    margin-left: 1270px;
+}
+#box6{
+    background-color: red;
+    width: 30px;
+    height: 190px; 
+    margin-left:1320px;
+    margin-top:-200px ;
+}
+#box7{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoYTKCLaPy9_J6n3XUx82R1cl0tzKtgHh4A&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1500px;
+    height: 800px;
+}
+#h2{
+    color: rgb(194, 57, 3);
+    margin-right: 50px;
+    font-style: normal;
+}
+#container{
+    color: rgb(248, 140, 100);
+}
+#box8{
+    background-color: azure;
+    width: 300px;
+    height: 400px;
+    margin-left: 20px;
+    
+}
+#h5{
+    color: black;
+    
+}
+#box9{
+    background-color: rgba(26, 25, 25, 0.699);
+    width: 300px;
+    height: 400px;
+    margin-left: 500px;
+    margin-top: -422px;
+}
+#h6{
+    color: orangered;
+}
+#h7{
+    color: orangered;
+}
+#box10{
+    background-color: orangered;
+    width:300px;
+    height: 400px;
+    margin-left: 960px;
+    margin-top: -400px;
+}
+#h8{
+    color:white;
+
+}
+#h9{
+    color:white;
+}
